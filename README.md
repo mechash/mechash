@@ -1,119 +1,83 @@
+
+![68747470733a2f2f63646e2e70726f642e776562736974652d66696c65732e636f6d2f3635323961663731343232666464616362666135383638642f3636336138356261393130353035383961373739393661655f494d475f333332312e676966](https://github.com/user-attachments/assets/9d11343e-b874-4192-ba74-8e1796dff041)
 # 👋 Hey there, I’m Ashish Jaiswal  
 ![Profile Views](https://komarev.com/ghpvc/?username=mechash&style=flat&color=0e75b6)
 
-**🛠 Technical Lead | 🔬 R&D Electronics Engineer | 🛩️ Drone Technologist | 🛸 FPV Pilot**  
-Building robust flight controllers, developer tools, and embedded systems that power the future of accessible drone tech.
+**🛠 Technical Lead | 🛩️ Drone Engineer | 🔧 Embedded Systems Developer**  
+Designing flight controllers, firmware APIs, and tools to push open and accessible drone tech forward.
 
 ---
 
 ## 🔍 About Me
 
-I’m a hands-on embedded systems engineer and project lead with 4+ years of experience at the intersection of hardware and software. I’ve designed STM32-based flight controllers, developed firmware APIs, built developer tooling like VS Code extensions, and led cross-functional R&D efforts at [Drona Aviation](https://www.dronaaviation.com).
+I’m an embedded systems engineer and project lead with 4+ years of experience building STM32-based flight controllers, firmware libraries, and development tools.
 
-Driven by curiosity and craftsmanship, I care about designing systems that are not just functional, but intuitive, reliable, and open to innovation.
+Currently leading hardware and firmware projects at [Drona Aviation](https://www.dronaaviation.com), I enjoy taking products from concept to prototype to release.
 
-- 🧠 MSc Robotics – Cranfield University (UK)  
-- 🏭 Ex-Wootzano (UK), Ex-Cennox (Belgium)  
-- 👨‍🏫 Technical Lead @ Drona Aviation  
-- 🌐 Portfolio: [mechash.notion.site](https://mechash.notion.site)  
-- 💬 Ask me about: STM32 firmware, drone systems, developer tools, ROS, embedded APIs  
+- 🎓 MSc Robotics – Cranfield University (UK)  
+- 🛠 Previously at Wootzano (UK) & Cennox (Belgium)  
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-r-jaiswal" target="_blank">
+    <img src="https://github.com/user-attachments/assets/94ff8830-5ecf-453f-b2ac-a58cee4b282b" alt="LinkedIn" width="140"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ashish12_11/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e85ef1eb-f31f-4f07-9ca9-896b0a9b91a2" alt="Instagram" width="140"/>
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://discord.gg/YNzKzVBB" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e9792277-0ca2-4c40-b344-3e84e7ae78f4" alt="Discord" width="120"/>
+  </a>
+</p>
+
 
 ---
 
-## 🚀 Work at Drona Aviation
+## 🚀 Drona Aviation Projects
 
-### 🔄 [MagisV2](https://github.com/DronaAviation/MagisV2)  
-> Cleanflight-based firmware for the latest **Primus X2 / V5** flight controllers  
-Includes extensible APIs for developers to interact with the drone via external sensors, addons, and custom integrations.
-
-### 🔁 [Magis](https://github.com/DronaAviation/magis)  
-> Legacy firmware for **Primus X / V4** flight controllers  
-Built on Cleanflight, supports similar APIs and user programmability as MagisV2 — for earlier hardware versions.
-
-### 🧩 [Pluto IDE Extension](https://marketplace.visualstudio.com/items?itemName=Drona-Aviation.pluto-ide)  
-> A custom Visual Studio Code extension for STM32-based drone firmware development  
-Helps users **build → flash → debug** the Magis / MagisV2 firmware for supported flight controllers.  
-Tailored for seamless development with Primus hardware in embedded C/C++.
+🔄 **MagisV2** – Cleanflight-based firmware for **Primus X2 / V5** flight controllers with developer APIs for sensors and add-ons  
+🧩 **Pluto IDE Extension** – Build–flash–debug STM32 firmware using VS Code, optimized for Magis and MagisV2 workflows  
+🧠 **Primus V5 | X2 Flight Controller** – STM32-based flight controller with onboard **ESP8266** module for real-time wireless communication, telemetry, and programming
 
 ---
 
 ## 🛸 Drones, FPV & 3D Printing
 
-Outside of work, I actively fly FPV drones and prototype hardware with 3D printing.
+🎮 I fly FPV drones (micro to 5") and love building and tuning custom quads.  
+📹 - [Shot 1](https://www.instagram.com/ashish12_11/reel/C2dHoFjoczg/)  📹 - [Shot 2](https://www.instagram.com/ashish12_11/reel/Cxpyut9I0df/)  📹 - [Shot 3](https://www.instagram.com/ashish12_11/reel/CxPICuSIbT7/)
 
-🎮 **FPV Pilot** – I fly micro and 5" quads, and love tuning PID, testing frames, and shooting cinematic reels.  
-📹 Check out a few of my reels on Instagram:  
-- [Shot 1](https://www.instagram.com/ashish12_11/reel/C2dHoFjoczg/)  
-- [Shot 2](https://www.instagram.com/ashish12_11/reel/Cxpyut9I0df/)  
-- [Shot 3](https://www.instagram.com/ashish12_11/reel/CxPICuSIbT7/)
-
-🖨️ **3D Printing Enthusiast** – I run a modded Ender 3 with:  
-- Dual Z-axis  
-- Klipper firmware (via SKR Mini E3 v1.2)  
-- Raspberry Pi 4 with Fluidd + Moonraker  
-- Slice using Orca Slicer / Cura depending on needs  
-
-I use this setup to prototype drone mounts, test enclosures, flight controller cases, and custom tools.
-
----
-
-## 📚 Selected Open Source & Personal Projects
-
-- 🎨 [Dark Aether Theme](https://github.com/mechash/dark-aether-theme) – Custom VS Code theme  
-- 📟 [Raspberry Pi OLED Stats Monitor](https://github.com/mechash/RPi_Stats_Monitor_SH1106) – Live system dashboard via SH1106 OLED  
-- 🎮 [Optimized Minecraft Mod Server](https://github.com/mechash/Opti-MC-MServer) – Lightweight Raspberry Pi mod server  
-- 🧾 [Web Server Guide](https://mechash.notion.site/Step-by-Step-Guide-to-Hosting-Your-Own-Webserver-at-Home-Setting-Up-a-Secure-Raspberry-Pi-Apache-Se-4496694375ae4afe9d348a38bf29208b)
+🖨️ My custom Ender 3 setup:
+- Dual Z-axis + SKR Mini E3 v1.2 with Klipper
+- Raspberry Pi 4 + Fluidd + Moonraker
+- Orca Slicer / Cura for slicing
 
 ---
 
 ## 🧠 Skills & Tools
 
-**Languages**:  
-`Embedded C` `C++` `Python` `FreeRTOS` `ROS`
+`Embedded C` • `C++` • `Python` • `FreeRTOS` • `ROS` • `Java Script` • `HTML` • `PHP` • `CSS` 
 
-**Platforms**:  
-`STM32` `ESP32` `Drone SDKs` `RF Modules` `Octoprint` `Klipper`
+`STM32` • `ESP32` • `Drone SDKs` • `RF Modules` • `RP2040` • `RPi 4` 
 
-**Tools & IDEs**:  
-`VS Code` `KiCad` `Altium` `Fusion 360` `SolidWorks` `Orca Slicer`
+`VS Code` • `KiCad` • `Altium` • `circuitJS` • `Fusion 360` • `SolidWorks` • `STM (CubeMX, CubeProgrammer, CubeIDE)` • `PicoScope` • `PulseView` 
 
-**DevOps & Workflow**:  
 `Git` `ClickUp` `Trello` `Notion` `Slack`
 
----
-
-## 🎓 Education
-
-🎓 **MSc Robotics** – Cranfield University (UK)  
-🎓 **BSc IT** – University of Mumbai (India)
+`Betaflight` • `ExpressLRS` • `iNav` • `Eachine TX16S` • ` Skyzone Sky04L V2 `  
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechash&theme=nord_dark" alt="Profile Summary" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mechash&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="47%" />
+</p>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-r-jaiswal/)  
-- 🐙 [GitHub](https://github.com/mechash)  
-- 📩 Email: j.ashish@mechash.com  
-
----
-
-## 📊 GitHub Analytics & Stats
-
-### 📋 Profile Summary  
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechash&theme=nord_dark)
-
-### ⏰ Commit Patterns  
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mechash&theme=nord_dark&utcOffset=8)
-
-### 📈 GitHub Stats  
-![mechash's Stats](https://github-readme-stats.vercel.app/api?username=mechash&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-### 🔁 Contribution Streak  
-![mechash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechash&theme=nord&hide_border=false)
-
-### 🔤 Top Languages  
-![mechash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechash&theme=nord&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mechash&theme=nord&hide_border=false" alt="Streak" width="47%" />
+</p>
 
 ---
 
 _“Turning complex ideas into elegant, working tech — one board, byte, and build at a time.”_
+
